@@ -10,3 +10,5 @@ for members within our community to cultivate their leadership proficiencies. By
 means of mentorship initiatives, interactive workshops, and synergistic
 undertakings, we endow individuals with the authority to assume leadership
 positions and engender meaningful alterations in their respective domains.
+
+# LINKEDIN: https://www.linkedin.com/company/cognoriseinfotech/
