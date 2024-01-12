@@ -1,4 +1,4 @@
-# Cognorise_Infotech
+# Cognorise_Infotech_INTERNSHIP
 COGNORISE INFOTECH thrives as a dynamic and varied community that unites
 individuals with akin aims and eventual achievements. Our primary concentration
 resides in establishing prospects that encompass a multitude of domains,
