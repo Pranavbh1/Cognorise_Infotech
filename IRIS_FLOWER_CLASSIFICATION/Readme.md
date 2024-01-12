@@ -1,1 +1,1 @@
-<a href="https://www.buymeacoffee.com/pranavbhawsar"><img src="1.png" width="200" /></a>
+<img src="1.png" width="800" /></a>
